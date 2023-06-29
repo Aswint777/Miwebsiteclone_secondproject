@@ -1,0 +1,436 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: #F7F7F7; */
+    font-family:"";
+}
+.start{
+    height: 48px;
+    width: 100%;
+    background-color: #fff;
+    position: fixed;
+    z-index: 2;
+    
+}
+.a1{
+    margin-left: 28px;
+}
+.app{
+    display: flex;
+    margin-left: 60px;
+    margin-top: -22px;
+}
+.logo_main{
+    background-image: url(Frame\ \(1\)\(2\).png);
+    width: 38px;
+    height: 30px;
+    background-size: cover;
+    margin-top: 5px;
+    
+}
+.lence{
+    background-image: url(Item\ ⏵\ Button.png);
+    width: 38px;
+    height: 30px;
+    background-repeat: no-repeat;
+    margin-left: 30px;
+    
+}
+.a10{
+    margin-left: 20px;
+}
+
+
+.human{
+    background-image: url(Item\ ⏵\ Button\ \(1\).png);
+    width: 38px;
+    height: 30px;
+    background-repeat: no-repeat;
+    margin-left: 30px;
+    
+}
+.a5{
+    margin-left: 900px;
+    display: flex;
+    margin-top: -21px;
+}
+
+.tip{
+    background-image: url(https://i02.appmifile.com/172_operator_global/08/06/2023/338d64151c123ef5dee0a422a7676d49.jpg?f=webp);
+    width:100% ;
+    
+    /* position: absolute; */
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:450px;
+    /* position: relative; */
+
+}
+.photo{
+    background-image:url(https://i02.appmifile.com/31_operator_global/29/06/2023/0cbd7ecf2ed5bc9004bc25911fa68350.png?f=webp);
+    height: 449px;
+    width: 100%;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:450px;
+    margin-top: 15px;
+    
+
+}
+.unlock{
+    /* color: #fff; */
+    /* position: absolute; */
+    font-size: 32px;
+    line-height: 38.4px;
+    font-weight: 600;
+    margin-top: 0px;
+}
+.the{
+    margin-top: 10px;
+    line-height: 34px;
+    font-weight: 200;
+    font-size: large;
+}
+.rad{
+    width: 150px;
+    height: 30px;
+    background-color:black;
+    margin-top: 15px;
+    border-radius: 10px;
+
+}
+.three{
+ padding-top:118px;
+margin-left:170px;
+
+}
+.lern{
+    color:#fff;
+    padding-top: 5px;
+    text-align: center;
+    font-size: medium;
+}
+
+.box1{
+    width:607px ;
+    height: 395px;
+    background-color: brown;
+    float: left;
+    margin: 16px;
+    margin-right: 8px;
+}
+.box2{
+    width: 607px ;
+    height: 395px;
+    background-color: #F7F7F7;
+    float:right;
+    margin: 16px;
+    margin-left: 8px;
+    
+     /* margin-left: 167px;  */
+    
+}
+.pic1{
+    background-image: url(https://i02.appmifile.com/123_operator_global/08/06/2023/4618728aab52804f7541d4b0bae2a144.jpg?f=webp);
+    width:607px ;
+    height: 395px;
+    position: absolute;
+    background-size:cover;
+    background-position: center;
+    
+
+   
+}
+.pic2{
+    background-image: url(https://i02.appmifile.com/148_operator_global/12/06/2023/0387c1604aa8462f73fd7e44c6b1552f.jpg?f=webp);
+    width:607px ;
+    height: 395px;
+    position: absolute;
+    background-size:cover;
+    background-position: center;   
+}
+.pic3{
+    background-image: url(https://i02.appmifile.com/985_operator_global/08/06/2023/e550a2cc2061fe11ef5b04ceb23ff48f.jpg?f=webp);
+    width:607px ;
+    height: 395px;
+    position: absolute;
+    background-size:cover;
+    background-position: center;   
+}
+.pic4{
+    width: 296px ;
+    height: 395px;
+    background-color:#fff;
+    float: left;
+    margin-right: 8px;
+}
+.pic4_1{
+    width: 296px ;
+    height: 395px;
+    background-color:#fff;
+    float: right;
+    padding-top: 84px;
+
+}
+.pic4t{
+    
+    background-image: url(Picture.png);
+    width: 296px ;
+    height: 395px;
+    
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.vote{
+    text-align: center;
+    padding: 46px;
+}
+.vote1{
+    text-align: center;
+    padding: 46px;
+    margin-top: -421px;
+    font-size: large;
+}
+.pic4r{
+    background-image: url(div.daily-pick__image.png);
+    width: 100% ;
+    height: 100%;
+    
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* border: 2px solid red; */
+}
+.boxtop{ 
+   width: 1167px;
+   height: 397px; 
+   /* background-color: black; */
+   /* margin-left: 20px; */
+   margin-left: 48px;
+   
+}
+.main{
+    width:100%;
+    height: 1288px;
+    background-color:#F7F7F7 ;
+    /* background: none; */
+}
+.tept{
+    width: 577px;
+    height: 397px;
+    background-color: bisque;
+    
+}
+.pic_last1{
+    background-image: url(https://i02.appmifile.com/886_operator_global/26/06/2023/fe5c891289a6ce8e99bca1ab36c36ffc.png);
+    width: 576px;
+    height: 396px;
+    background-size: cover;
+    /* background-color: springgreen;  */
+}
+.stec{
+    /* margin-left: 773px; */
+    float: right;
+    position: absolute;
+    top: 63px;
+    right: 143px;
+    /* border: 1px solid; */
+    width: 330px;
+    font-weight: 200;
+    font-size: 25px;
+}
+.bio{
+    
+    width: 360px; 
+    font-size: 14px;
+    font-weight: 100;
+    position: absolute;
+    top: 100px;
+    right: 129px;
+    /* border: 1px solid; */
+}
+
+
+
+
+.take{
+    width: 590px; ;
+    height: 396px; 
+    /* background-color: blue; */
+    float: right;
+    background-size: cover;
+    margin-top: -397px;
+    /* position: absolute; */
+    margin-left: 576px;
+    position: relative;
+    text-align: center;
+}
+.footer{
+    width: 100%;
+    height: 430px; 
+    /* background-color: black; */
+    display: flex;
+    position: relative;
+    margin-left: 20px;
+    /* color: #fff; */
+    margin-top: 34px;
+    padding-top: 79px;
+    
+    
+}
+/* .black{ 
+    width: 100%;
+    height: 521px; 
+    background-color: black;
+    position: absolute;
+ } */
+ .footer ul h2{
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 700px;
+    color: #fff;
+    margin-top: 10px;
+    /* padding: 20px; */
+ }
+ .footer ul li{
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: 300px;
+    color: #fff;
+    margin-top: 10px;
+    list-style: none;
+    /* padding: 20px; */
+
+ }
+ .first_line{
+    margin-left: 50px;
+}
+.second_line{
+    margin-left: 90px;
+}
+.third_line{
+    margin-left: 90px;
+}
+.last_line{
+    margin-left: 120px;
+    margin-top: 10px;
+}
+.follow{
+    color: #fff;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 700px;
+    
+}
+.logo1{
+    background-image: url(Vector\ \(4\).png);
+    width: 25px;
+    height: 25px;
+    background-size: cover;
+    margin-top: 20px;
+    float: left;
+
+}
+.logo2{
+    background-image: url(Vector\ \(5\).png);
+    width: 25px;
+    height: 25px;
+    background-size: cover;
+    margin-top: 20px;
+    float: left;
+    margin-left: 25px;
+
+}
+.logo3{
+    background-image: url(Item\ ⏵\ Link\ -\ Social\ Media-twitter.png);
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    margin-top: 20px;
+    float: left;
+    margin-left: 25px;
+
+
+
+
+}
+.logo4{
+    background-image: url(Item\ ⏵\ Link\ -\ Social\ Media-instagram.png);
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    margin-top: 20px;
+    float: left;
+    margin-left: 25px;
+
+
+
+}
+.logo5{
+    background-image: url(Item\ ⏵\ Link\ -\ Social\ Media-community.png);
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    margin-top: 20px;
+    float: left;
+    margin-left: 25px;
+}
+.lets{
+    color: #fff;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 700px; 
+    margin-top: 70px;
+}
+.keep{
+    width: 300px;
+    height: 30px;
+    background-color: yellow;
+    background: none;
+    margin-top: 20px;
+    border-radius: 10px;
+    top: 10px;
+
+
+    border: 2px solid #fff;
+
+}
+.enter{
+    margin-left: 10px;
+    margin-top: px;
+    color: #fff;
+}
+.border{
+    width: 100%;
+    height:91px ;
+    /* background-color:black; */
+}
+.sim{
+    display: flex;
+    text-align: center;
+    margin-top: 45px;
+    color: #fff;
+}
+.dol{
+    margin-left: 50px;
+}
+.speak{
+    margin-left: 430px;
+}
+.material-symbols-outlined{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
